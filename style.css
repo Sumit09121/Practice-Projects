@@ -240,7 +240,7 @@ footer a {
     flex-direction: column;
 }
 
-@media screen and (max-width :1300px) {
+@media screen and (max-width :800px) {
     nav {
         max-width: 90vw;
     }
@@ -254,7 +254,9 @@ footer a {
     }
 
     .secImg video {
-        width: 305px;
+        left: 39px;
+        width: 225px;
+        top: 45px;
     }
 
     .hero> :nth-child(1) {
@@ -296,7 +298,7 @@ footer a {
 
 
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1000px) {
 
     .footer {
         display: grid;
