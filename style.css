@@ -292,7 +292,10 @@ footer a {
     .footer-item {
         align-items: center;
     }
-
+     .display-buttons{
+        display: flex;
+        flex-direction: column;
+    }
 
 }
 
